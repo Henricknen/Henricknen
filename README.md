@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://linktreee-henricknen.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linktree-linktree.svg?style=for-the-badge&logo=linktree&logoColor=white&Label=Linktree" target="_blank" />
+    <img src="https://img.shields.io/badge/-Linktree-linktree.svg?style=flat&logo=linktree&logoColor=white&Label=Linktree" target="_blank" />
   </a>
 </div>
 
